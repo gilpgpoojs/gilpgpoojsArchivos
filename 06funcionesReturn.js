@@ -7,6 +7,5 @@ console.log(x)
  */
 function fna(t, bc) {
  console.log(t + bc * 2)
- return (1 + t * 8);
- 
+ return (1 + t * 8)
 }

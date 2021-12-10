@@ -1,0 +1,13 @@
+const a = "8.33"
+const b = parseInt("8.33", 10)
+console.log(b)
+const c = parseInt("8", 10)
+console.log(c)
+const d = parseInt("1000", 2)
+console.log(d)
+const e = parseInt("F", 16)
+console.log(e)
+const f = parseInt("f", 16)
+console.log(f)
+const g = parseFloat("8.33")
+console.log(g)
